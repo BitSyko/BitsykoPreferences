@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BitSyko Preferences</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="General">General</string>
+    <string name="noBuildPropCommit">no build.prop commit</string>
+    <string name="launcherIconRemoved">Launcher Icon removed</string>
+    <string name="romNeedsSupport">Your rom needs support for this function</string>
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="About">About</string>
+    <string name="Settings">Settings</string>
+    <string name="More">More</string>
+
+    <!-- cards text -->
+    <string name="card1header"></string>
+    <string name="card1"></string>
+    <string name="card2header"></string>
+    <string name="card2"></string>
+    <string name="card3header"></string>
+    <string name="card3"></string>
+    <string name="version">Version</string>
+
+
+
+
+    <!-- About -->
+    <string name="developedby">Layers developed by</string>
+    <string name="usefullinks">Useful links</string>
+    <string name="AditionalLayersDev">Additional Layers commits</string>
+    <string name="findOutWhatsNew">Find out whats new</string>
+    <string name="joinTheChat">Join the chat</string>
+    <string name="AppDeveloper">App Developer</string>
+    <string name="LayersDeveloper">Layers Developer</string>
+    <string name="LayersLeadDeveloper">Layers Lead Developer</string>
+    <string name="ShowcaseDeveloper">Showcase Developer</string>
+
+
+    <!-- Links -->
+    <string name="linkXda" translatable="false">http://forum.xda-developers.com/android/apps-games/official-layers-bitsyko-apps-rro-t3012172</string>
+    <string name="linkCommunity" translatable="false">https://plus.google.com/u/0/communities/102261717366580091389</string>
+    <string name="linkNiklas" translatable="false">https://plus.google.com/u/0/+NiklasSchnettler/posts</string>
+    <string name="linkSteve" translatable="false">https://plus.google.com/u/0/+SteveLovejoy/posts</string>
+    <string name="linkAldrin" translatable="false">https://plus.google.com/u/0/+AldrinHolmes20/posts</string>
+    <string name="linkBrian" translatable="false">https://plus.google.com/u/0/+BrianGill55/posts</string>
+    <string name="linkReinhard" translatable="false">https://plus.google.com/101549242713977412381/posts</string>
+    <string name="linkSyko" translatable="false">https://plus.google.com/u/0/+SykoPompos/posts</string>
+    <string name="linkBranden" translatable="false">https://plus.google.com/u/0/101729058057775926785/posts</string>
+    <string name="linkDenis" translatable="false">https://plus.google.com/u/0/+DenisSuarez98/posts</string>
+    <string name="linkAndrzej" translatable="false">https://plus.google.com/u/0/117376207394302665227/posts</string>
+    <string name="VisitGithub" translatable="false">Github</string>
+
+</resources>
